@@ -1,0 +1,15 @@
+html {
+    background-color: blue;
+}
+body {
+    margin: 100px 40px 40px 40px
+}
+table tr td img a {
+    width: 100%;
+}
+table tr td {
+    width: 20vw;
+}
+h1 {
+    text-align: center;
+}
